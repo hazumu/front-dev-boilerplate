@@ -1,0 +1,15 @@
+/tmp
+*.swp
+*~
+.DS_Store
+Thumbs.db
+._.DS_Store
+
+# node
+node_modules/
+
+# styleguid
+public/styleguide/
+
+# 納品物
+dist
