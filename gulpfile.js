@@ -44,7 +44,7 @@ gulp.task('webpack', () => {
     })
 });
 
-gulp.task('webpack-dev-server', function(callback) {
+gulp.task('webpack-dev-server', (callback) => {
     let compiler = webpack(webpackConfig)
     // NOTE: https://webpack.github.io/docs/webpack-dev-server.html
     new webpackDevServer(compiler, {

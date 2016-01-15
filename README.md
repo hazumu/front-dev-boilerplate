@@ -7,5 +7,4 @@
 ## 参考
 - https://github.com/inureo/es6-gulp-boilerplate
 - https://webpack.github.io/docs/webpack-dev-server.html
-- https://webpack.github.io/docs/webpack-dev-server.html
 
